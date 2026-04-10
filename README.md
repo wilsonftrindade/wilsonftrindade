@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🙋‍♂️ About Me:
+📍 Evanston, IL (Central Time)
+🎓 Economics & Computer Science @ Northwestern University
+💻 Interested in backend engineering, data, and ML
+🚀 Building full-stack applications and data-driven projects
 
-<!--
-**wilsonftrindade/wilsonftrindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥋 15+ years of martial arts • 🌎 Lived across 13+ cities • ♟️ Chess • 🧗 Bouldering
 
-Here are some ideas to get you started:
+🇺🇸 English • 🇵🇹 Português • 🇪🇸 Español
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wilsonftrindade) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wilsontrindade@u.northwestern.edu) 
+
